@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "202830984657",
+    "project_id": "bot-socio-gigante-vasco",
+    "storage_bucket": "bot-socio-gigante-vasco.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202830984657:android:497c9b30f99fcc23695cf0",
+        "android_client_info": {
+          "package_name": "com.umfp.bot_socio_torcedor_vasco"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA998uE01_ZtERHYFyL5v7Qi1FMFk4QiHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
